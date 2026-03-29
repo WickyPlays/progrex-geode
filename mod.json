@@ -1,0 +1,18 @@
+{
+	"geode": "5.3.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "wickyplays.progrex",
+	"name": "progrex",
+	"version": "v1.0.0",
+	"developer": "WickyPlays",
+	"description": "An all-in-one progress utility delivered straight to your house",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+	"tags": [ "cheat", "interface", "offline", "gameplay" ]
+}
