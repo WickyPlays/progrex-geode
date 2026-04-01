@@ -120,7 +120,7 @@ class $modify(PlayLayer) {
 
 		if (!m_fields->gameplayStarted) {
 			m_fields->gameplayStarted = true;
-			log::info("Gameplay has started. Logging for ProgreX")
+			log::info("Gameplay has started. Logging for ProgreX");
 			return;
 		}
 		else {
